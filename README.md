@@ -10,6 +10,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Você instalou a versão mais recente de `Python`.
 - Você leu `Fireworks Algorithm for Optimization` (Que se encontra no repositório).
+- Domínio básico do Jupyter Notebook e PowerShell.
 
 ## 🤝 Colaboradores
 
@@ -17,4 +18,4 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - [Arquimedes França](https://github.com/arqowl)
 - [João Vitor Russo](https://github.com/BrunTitoWars)
 - [Ricardo André](https://github.com/rickzerahh)
-- [João Vitor Russo](https://github.com/BrunTitoWars)
+- [João Leal](https://https://github.com/Joaoleal04)
